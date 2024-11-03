@@ -267,6 +267,6 @@ python manage.py loaddata products  # Reload sample data
 
 ## Contact
 
-Your Name - [your.email@example.com](mailto:your.email@example.com)
+Your Name - [lch.ryu2001@gmail.com](mailto:lch.ryu2001@gmail.com)
 
-Project Link: [https://github.com/yourusername/django_api_demo](https://github.com/yourusername/django_api_demo)
+Project Link: [https://github.com/lchryu/django_api_demo](https://github.com/lchryu/django_api_demo)
